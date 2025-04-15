@@ -11,7 +11,7 @@ function App() {
             Sreenivasulu B
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8">
-            Full Stack Developer | React Specialist | Problem Solver
+            System administrator | React Specialist | Problem Solver
           </p>
           <div className="flex gap-4 justify-center mb-12">
             <a href="https://github.com" className="hover:text-blue-400 transition-colors">
